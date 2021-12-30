@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/webbstacken/static/css/main.073c9b0a.css",
-    "main.js": "/webbstacken/static/js/main.b94dde5f.js",
-    "static/media/logo.svg": "/webbstacken/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/webbstacken/static/css/main.b0b8d48d.css",
+    "main.js": "/webbstacken/static/js/main.27898e8c.js",
+    "static/media/PexelsVideos2644023.mp4": "/webbstacken/static/media/PexelsVideos2644023.f0c00ff33eb22316472f.mp4",
     "index.html": "/webbstacken/index.html",
-    "main.073c9b0a.css.map": "/webbstacken/static/css/main.073c9b0a.css.map",
-    "main.b94dde5f.js.map": "/webbstacken/static/js/main.b94dde5f.js.map"
+    "main.b0b8d48d.css.map": "/webbstacken/static/css/main.b0b8d48d.css.map",
+    "main.27898e8c.js.map": "/webbstacken/static/js/main.27898e8c.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.b94dde5f.js"
+    "static/css/main.b0b8d48d.css",
+    "static/js/main.27898e8c.js"
   ]
 }
