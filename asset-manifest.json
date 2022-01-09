@@ -3,10 +3,8 @@
     "main.css": "/static/css/main.1dc37738.css",
     "main.js": "/static/js/main.a6f788c6.js",
     "static/media/pexels-markus-spiske-1089438.jpg": "/static/media/pexels-markus-spiske-1089438.7989d1d7dbf202d00fb8.jpg",
-    "index.html": "/index.html",
-    "main.1dc37738.css.map": "/static/css/main.1dc37738.css.map",
-    "main.a6f788c6.js.map": "/static/js/main.a6f788c6.js.map"
-  },
+    "index.html": "/index.html"
+	},
   "entrypoints": [
     "static/css/main.1dc37738.css",
     "static/js/main.a6f788c6.js"
