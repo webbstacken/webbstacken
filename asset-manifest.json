@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/webbstacken/static/css/main.3a8a8c69.css",
-    "main.js": "/webbstacken/static/js/main.63176f36.js",
+    "main.css": "/webbstacken/static/css/main.93f73d3c.css",
+    "main.js": "/webbstacken/static/js/main.6c814be8.js",
     "static/media/pexels-markus-spiske-1089438.jpg": "/webbstacken/static/media/pexels-markus-spiske-1089438.7989d1d7dbf202d00fb8.jpg",
     "index.html": "/webbstacken/index.html"
   },
   "entrypoints": [
-    "static/css/main.3a8a8c69.css",
-    "static/js/main.63176f36.js"
+    "static/css/main.93f73d3c.css",
+    "static/js/main.6c814be8.js"
   ]
 }
