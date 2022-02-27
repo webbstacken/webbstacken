@@ -1,12 +1,14 @@
 {
   "files": {
-    "main.css": "/webbstacken/static/css/main.93f73d3c.css",
-    "main.js": "/webbstacken/static/js/main.b6882798.js",
-    "static/media/pexels-markus-spiske-1089438.jpg": "/webbstacken/static/media/pexels-markus-spiske-1089438.7989d1d7dbf202d00fb8.jpg",
-    "index.html": "/webbstacken/index.html"
+    "main.css": "/webbstacken/static/css/main.b2f37868.css",
+    "main.js": "/webbstacken/static/js/main.bd597044.js",
+    "static/media/pexels-rostislav-uzunov-7385122.mp4": "/webbstacken/static/media/pexels-rostislav-uzunov-7385122.89f69a58e29c5a51e6ff.mp4",
+    "index.html": "/webbstacken/index.html",
+    "main.b2f37868.css.map": "/webbstacken/static/css/main.b2f37868.css.map",
+    "main.bd597044.js.map": "/webbstacken/static/js/main.bd597044.js.map"
   },
   "entrypoints": [
-    "static/css/main.93f73d3c.css",
-    "static/js/main.b6882798.js"
+    "static/css/main.b2f37868.css",
+    "static/js/main.bd597044.js"
   ]
 }
