@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.c9d85bb9.css",
-    "main.js": "/static/js/main.b9604d59.js",
-    "index.html": "/index.html"
+    "main.css": "/webbstacken/static/css/main.c9d85bb9.css",
+    "main.js": "/webbstacken/static/js/main.b9604d59.js",
+    "index.html": "/webbstacken/index.html"
   },
   "entrypoints": [
     "static/css/main.c9d85bb9.css",
